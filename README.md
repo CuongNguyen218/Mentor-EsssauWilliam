@@ -1,7 +1,6 @@
 # Mentor-EsssauWilliam
 Mentor-ES algorithm
 # Requirements
-install matplotlib
 pip3 install matplotlib
 # to run algorithm
 python3 Main.py
